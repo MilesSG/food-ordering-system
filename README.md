@@ -22,16 +22,16 @@
 
 ### 后端技术:
 - Spring Boot 2.2.2
-- MySQL 5.7+
+- MySQL 8.x
 - MyBatis-Plus 2.3
 - Shiro 1.3.2
 - JDK 1.8
 
 ## 📋 环境要求
 
-- Node.js (推荐使用v14.21.3，避免使用高版本可能产生的兼容性问题)
+- Node.js v16.x
 - JDK 1.8
-- MySQL 5.7+
+- MySQL 8.x
 - Maven 3.6+
 
 ## 🔧 安装与设置
