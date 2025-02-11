@@ -74,7 +74,7 @@ npm run serve
    - 网址: `http://localhost:8080/admin`
    - 默认管理员账号:
      - 用户名: admin
-     - 密码: admin
+     - 密码: 123456
 
 2. 配置餐厅设置:
    - 添加菜品分类
